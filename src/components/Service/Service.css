@@ -1,0 +1,7 @@
+.single__service img {
+  width: 100%;
+}
+.single__area {
+  box-shadow: -1px 0px 5px 0px rgba(221, 215, 215, 0.75);
+  padding: 10px 20px;
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Physiotherapy",
+    "description": "Physiotherapy is a clinical health profession that aims to rehabilitate people following injury and improve movement disorders. Physiotherapy uses evidence.",
+    "image": "https://thegenius.co/physioplus/live/wp-content/uploads/2016/06/service-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Diagnostics",
+    "description": "We are specialists in sports injuries. Our team have worked at the highest levels of international competition across variety of sports and our ability to understand sports person.",
+    "image": "https://thegenius.co/physioplus/live/wp-content/uploads/2016/06/service-2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Manual Therapy",
+    "description": "Manual therapy, or manipulative therapy, is a physical treatment primarily used by massage therapists. manual therapy is defined as a clinical approach utilizing skilled techniques.",
+    "image": "https://thegenius.co/physioplus/live/wp-content/uploads/2016/06/manual-left.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Massage TherapyRev",
+    "description": "We are specialists in physical therapy. Massage involves working and acting on the body with pressure – structured, unstructured. Massage can promote relaxation.",
+    "image": "https://thegenius.co/physioplus/live/wp-content/uploads/2016/06/service-4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Rehabilitation",
+    "description": "A physician having completed training in this field is referred to as a physicist. Physicists specialise in restoring optimal function to people with injuries to the muscles, bones.",
+    "image": "https://thegenius.co/physioplus/live/wp-content/uploads/2016/06/service-5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Acupuncture",
+    "description": "There is a diverse range of acupuncture approaches, involving different. Acupuncture is a form of alternative medicine. It is commonly used for pain relief.",
+    "image": "https://thegenius.co/physioplus/live/wp-content/uploads/2016/06/service-6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Geriatric",
+    "description": "Geriatrics is a speciality that focuses on health care of elderly people. There is no set age at which patients may be under the care of a geriatrician or geriatric physician.",
+    "image": "https://thegenius.co/physioplus/live/wp-content/uploads/2016/06/service-7.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Sports Medicine",
+    "description": "Sports medicine, also known as sport and exercise medicine, is a branch of medicine that deals with physical fitness and the treatment & prevention of injuries related to sports and exercise.",
+    "image": "https://thegenius.co/physioplus/live/wp-content/uploads/2016/06/service-9.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Orthopedic",
+    "description": "Orthopedic physical therapy is the foundation of our practice and represents the majority of our patient referrals.We specialists and experts in evaluating,treating and managing patients.",
+    "image": "https://thegenius.co/physioplus/live/wp-content/uploads/2016/06/service-8.jpg"
+  }
+]

@@ -1,0 +1,15 @@
+.icon__Style {
+  font-size: 40px;
+  color: #568aed;
+}
+.Card:hover {
+  border: 2px solid #568aed;
+  transition: 0.5s;
+}
+.small-title {
+  text-transform: uppercase;
+  color: #568aed;
+  letter-spacing: 2px;
+  margin-bottom: 30px;
+  font-family: "Roboto", sans-serif;
+}
